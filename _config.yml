@@ -65,8 +65,8 @@ plugins:
 
 author:
   name: *name
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "MIT '20 (CS + Econ) interested in machine learning and causal inference."
+  avatar: "/assets/images/bio-photo.jpg.jpg"
+  bio: "UPF PhD Student in Linguistics. MIT '20 (CS + Math), MEng '21."
   location: "Barcelona, ES"
   employer: "Universitat Pompeu Fabra"
   email: *email
