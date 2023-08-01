@@ -1,3 +1,103 @@
-theme: jekyll-theme-minimal
-title: Emily Cheng
-description: Bookmark this to keep an eye on my project updates!
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+locale: "en-US"
+title: "Emily Cheng"
+name: &name "Emily Cheng"
+email: &email "emilyshana.cheng@upf.edu"
+description: "Emily Cheng Personal Website"
+url: &url "https://chengemily1.github.io"
+baseurl: ""
+repository: "chengemily1/chengemily1.github.io"
+github_username: &github "chengemily1"
+minimal_mistakes_skin: default
+search: false
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /blog/page:num/
+timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+exclude:
+  - "*.swp"
+  - README.md
+  - package-lock.json
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+author:
+  name: *name
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "MIT '20 (CS + Econ) interested in machine learning and causal inference."
+  location: "Barcelona, ES"
+  employer: "Universitat Pompeu Fabra"
+  email: *email
+  twitter: *twitter
+  github: *github
+
+footer:
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
