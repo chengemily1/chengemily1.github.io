@@ -10,7 +10,6 @@ I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spa
 - [Github](https://github.com/chengemily1)
 
 ## News
-- (October '23) Paper accepted! about an empirical link between information-theoretic and geometric compression in LMs (EMNLP 2023)
 - (August '23) Attended the [Brains, Minds, and Machines](https://cbmm.mit.edu/summer-school) summer course in Woods Hole, MA
 - (May '23) [Paper](https://arxiv.org/abs/2305.12941) accepted! about compositionality and imitation in emergent communication (ACL Findings 2023)
 - (October '22) Started PhD at COLT in Barcelona
