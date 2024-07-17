@@ -10,7 +10,8 @@ I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spa
 - [Github](https://github.com/chengemily1)
 
 ## News
-- (June '24) I am visiting Area Science Park and SISSA in Trieste to present about geometry and abstraction in Transformers
+- (Summer '24) I'm visiting MIT CSAIL this summer to work on geometric complexity in linguistic processing in the 🧠
+- (June '24) I am visiting Area Science Park in Trieste to present about geometry and abstraction in Transformers
 - (May '24) New [preprint](https://arxiv.org/abs/2405.15471) about Emergence of a High-Dimensional Abstraction Phase in Language Transformers, and [another](https://arxiv.org/abs/2405.15454) about Linearly Controlled Language Generation with Guarantees, on Arxiv 
 - (November '23) I gave a talk about information-theoretic and geometric compression in LMs at the IDSIA in Lugano, Switzerland
 - (November '23) I presented a [poster](https://drive.google.com/file/d/1yL-HZvHBm1BFLEAtcoa6Nw25XMRX5L6J/view) about cognitive pressures shaping noun morphology in Romance languages at X-PPL in Zurich
