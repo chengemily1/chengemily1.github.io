@@ -5,11 +5,12 @@ title: ""
 
 I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, supervised by Marco Baroni (previous: MIT '20, MEng '21 in CSAIL Infolab). My interests lie in data compression as a signature of learnability and compositionality in humans and language models. I also dabble in emergent communication in humans and machines.
 
-## Quick Links
+### Quick Links
 - [Resume][pdf-link]
 - [Github](https://github.com/chengemily1)
 
-## News
+### News
+- (August '24) I TA'ed this year's Brains, Minds, and Machines summer course.
 - (Summer '24) I'm visiting MIT CSAIL this summer to work on geometric complexity in linguistic processing in the 🧠
 - (June '24) I am visiting Area Science Park in Trieste to present about geometry and abstraction in Transformers
 - (May '24) New [preprint](https://arxiv.org/abs/2405.15471) about Emergence of a High-Dimensional Abstraction Phase in Language Transformers, and [another](https://arxiv.org/abs/2405.15454) about Linearly Controlled Language Generation with Guarantees, on Arxiv 
