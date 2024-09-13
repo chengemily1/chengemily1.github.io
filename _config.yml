@@ -21,6 +21,7 @@ description: "Emily Cheng Personal Website"
 url: &url "https://chengemily1.github.io"
 baseurl: ""
 repository: "chengemily1/chengemily1.github.io"
+gscholar: &gscholar "https://scholar.google.com/citations?user=tOjHvP0AAAAJ&hl=en"
 github_username: &github "chengemily1"
 minimal_mistakes_skin: default
 search: false
@@ -72,6 +73,7 @@ author:
   email: *email
   twitter: *twitter
   github: *github
+  google scholar: *gscholar
 
 footer:
 
