@@ -3,7 +3,8 @@ permalink: /
 title: ""
 ---
 
-I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, supervised by Marco Baroni (previous: MIT '20, MEng '21 in CSAIL Infolab). My interests lie in data compression as a signature of learnability and compositionality in humans and language models. I also dabble in emergent communication in humans and machines.
+I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, supervised by Marco Baroni (previous: MIT '20, MEng '21 in CSAIL Infolab). I'm currently interested in how artificial and biological brains represent linguistic complexity, and what that entails for linguistic productivity. 
+I've also dabbled in emergent communication in humans and machines.
 
 ### Quick Links
 - [Resume][pdf-link]
