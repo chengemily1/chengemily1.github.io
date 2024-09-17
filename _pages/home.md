@@ -25,5 +25,5 @@ I've also dabbled in emergent communication in humans and machines.
 - (May '23) [Paper](https://arxiv.org/abs/2305.12941) accepted! about compositionality and imitation in emergent communication (ACL Findings 2023)
 - (October '22) Started PhD at COLT in Barcelona
   
-[pdf-link]: /assets/cv_2023.pdf
+[pdf-link]: /assets/CV.pdf
 
