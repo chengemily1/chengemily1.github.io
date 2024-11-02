@@ -12,6 +12,7 @@ I've also dabbled in emergent communication in humans and machines.
 - [Google Scholar](https://scholar.google.com/citations?user=tOjHvP0AAAAJ&hl=en)
 
 ### News
+- (October '24) New [preprint](https://arxiv.org/abs/2410.15865)! Principles of semantic and functional efficiency in noun morphology.
 - (October '24) New [preprint](https://arxiv.org/abs/2410.01444)! Geometric feature complexity of LM representations encode the degree of linguistic compositionality. 
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New paper! 🌟How does LM representational geometry encode compositional complexity? <br><br>A: it depends on how we define compositionality! <br><br>We distinguish compositionality of form vs. meaning, and show LMs encode form complexity linearly and meaning complexity nonlinearly...<br><br>1/9 <a href="https://t.co/us30NCDjlH">pic.twitter.com/us30NCDjlH</a></p>&mdash; Emily Cheng (@sparse_emcheng) <a href="https://twitter.com/sparse_emcheng/status/1842835883726078311?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - (September '24) New [preprint](https://arxiv.org/abs/2409.05771)! Intrinsic dimensionality of language model representations predicts LM-brain alignment very well.
