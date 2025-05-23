@@ -2,9 +2,9 @@
 permalink: /
 title: ""
 ---
-<sub>
+
 I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, supervised by Marco Baroni (previous: MIT '20, MEng '21 in CSAIL Infolab). I'm currently interested in how artificial and biological brains represent linguistic complexity, and what that entails for linguistic productivity. 
-</sub>
+
 
 #### Quick Links
 [Resume][pdf-link] \
@@ -13,6 +13,7 @@ I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spa
 
 
 #### News
+- (May '25) I started an internship at Apple MLR in Cambridge, UK!
 - (October '24) New [preprint](https://arxiv.org/abs/2410.15865)! Principles of semantic and functional efficiency in noun morphology.
 - (October '24) New [preprint](https://arxiv.org/abs/2410.01444)! Geometric feature complexity of LM representations encode the degree of linguistic compositionality. 
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New paper! 🌟How does LM representational geometry encode compositional complexity? <br><br>A: it depends on how we define compositionality! <br><br>We distinguish compositionality of form vs. meaning, and show LMs encode form complexity linearly and meaning complexity nonlinearly...<br><br>1/9 <a href="https://t.co/us30NCDjlH">pic.twitter.com/us30NCDjlH</a></p>&mdash; Emily Cheng (@sparse_emcheng) <a href="https://twitter.com/sparse_emcheng/status/1842835883726078311?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -29,5 +30,5 @@ I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spa
 - (May '23) [Paper](https://arxiv.org/abs/2305.12941) accepted! about compositionality and imitation in emergent communication (ACL Findings 2023)
 - (October '22) Started PhD at COLT in Barcelona
 
-[pdf-link]: /assets/CV.pdf
+[pdf-link]: /CV.pdf
 
