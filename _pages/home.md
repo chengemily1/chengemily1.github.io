@@ -13,6 +13,7 @@ I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spa
 
 
 #### News
+- (December '25) Visiting [Rycolab](https://rycolab.io/) at ETHz til March! 
 - (May '25) Started an internship at Apple MLR in Cambridge, UK
 - (May '25) Presented a [poster](https://arxiv.org/abs/2405.15471) about Emergence of a High-Dimensional Abstraction Phase in Language Transformers at ICLR 2025
 - (May '25) [Paper](https://arxiv.org/abs/2410.01444) accepted at ACL (main) as an oral presentation! Geometric feature complexity of LM representations encode the degree of linguistic compositionality. 
