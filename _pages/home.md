@@ -33,5 +33,5 @@ I am a final year linguistics PhD student at the Universitat Pompeu Fabra in Bar
 - (May '23) [Paper](https://arxiv.org/abs/2305.12941) accepted! about compositionality and imitation in emergent communication (ACL Findings 2023)
 - (October '22) Started PhD at COLT in Barcelona
 
-[pdf-link]: /CV.pdf
+[pdf-link]: /CV_2026.pdf
 
