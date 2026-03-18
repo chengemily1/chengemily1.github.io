@@ -13,6 +13,7 @@ I am a linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spa
 
 
 #### News
+- (January '26) [Paper](https://machinelearning.apple.com/research/genctrl) accepted at ICLR with Apple! We propose a PAC bound on reachable sets of any black-box language model.
 - (December '25) Visiting [Rycolab](https://rycolab.io/) at ETHz til March! 
 - (May '25) Started an internship at Apple MLR in Cambridge, UK
 - (May '25) Presented a [poster](https://arxiv.org/abs/2405.15471) about Emergence of a High-Dimensional Abstraction Phase in Language Transformers at ICLR 2025
