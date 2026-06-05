@@ -13,6 +13,8 @@ I am a final year linguistics PhD student at the Universitat Pompeu Fabra in Bar
 
 
 #### News
+- (June '26) New [preprint][bnl-link]!: Effective dimensionality tracks the time-varying accessibility of input features during speech comprehension, with Chris Wang, Andrei Barbu, Marco Baroni, and Greta Tuckute (abstract to appear in CCN)
+- (May '26) Invited talk at FLARE Workshop, EPFL
 - (January '26) [Paper](https://machinelearning.apple.com/research/genctrl) accepted at ICLR with Apple! We propose a PAC bound on reachable sets of any black-box language model.
 - (December '25) Visiting [Rycolab](https://rycolab.io/) at ETHz til March! 
 - (May '25) Started an internship at Apple MLR in Cambridge, UK
@@ -33,5 +35,7 @@ I am a final year linguistics PhD student at the Universitat Pompeu Fabra in Bar
 - (May '23) [Paper](https://arxiv.org/abs/2305.12941) accepted! about compositionality and imitation in emergent communication (ACL Findings 2023)
 - (October '22) Started PhD at COLT in Barcelona
 
-[pdf-link]: /CV_2026.pdf
+[pdf-link]: /CV_emily_cheng_june_2026.pdf
+[bnl-link]: /dimensionality_brain_bnl_preprint.pdf
+
 
