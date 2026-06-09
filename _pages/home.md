@@ -5,6 +5,8 @@ title: ""
 
 I am a final year linguistics PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, supervised by Marco Baroni (previous: MIT '20, MEng '21 in CSAIL Infolab). I am primarily interested in how brains and machines process language, and have spent most of my PhD understanding the relationship between *feature abstraction* and the *dimensionality* of representations during language comprehension. I have also spent some time developing algorithms to understand how and whether LLMs can be controlled.
 
+This year I'm excited to organize [UniReps](https://unireps-2025.netlify.app/2025/)!
+
 
 #### Quick Links
 [Resume][pdf-link] \
